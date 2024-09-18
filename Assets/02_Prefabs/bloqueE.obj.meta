@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: ModelMat
+    second: {fileID: 2100000, guid: f731e6423b99b204790458697bd6890a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: PlainTexture
     second: {fileID: 2100000, guid: f731e6423b99b204790458697bd6890a, type: 2}
   materials:
